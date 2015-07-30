@@ -1,0 +1,17 @@
+img {
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%);
+}
+
+input {
+  background: :url ()
+
+}
+
+body {
+  background: rgb(61,187,252);
+  text-align: center;
+  overflow:hidden;
+}
