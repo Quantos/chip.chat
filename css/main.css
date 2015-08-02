@@ -1,13 +1,14 @@
 img {
   width: 300px;
-  position: fixed;
+  position: absolute;
   top: 50%;
-  left: 50%;
-  /*transform: translate(-50%);*/
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -ms-transform: translate(-50%);
 }
 
 body {
   background: rgb(61,187,252);
   text-align: center;
-  overflow: hidden;
+  overflow:hidden;
 }
